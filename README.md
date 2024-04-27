@@ -15,3 +15,5 @@ Learn some Javascript while I'm at it.
 
 This project will take a while. Like a while a while. No rush, better to learn every nokk(typo but lol) and cranny of the concepts than rushing everything. 
 (I SAY THIS AND I MEAN IT, THE HEADER ALONE TOOK 2 DAYS, LEARNING ALL 3 LANGUAGES AT ONCE IS EQUIVALENT TO MIND BREAK(IYKYK).
+
+Idk how to add images here yet(Not planning to learn anytime soon, learn the 3 foundation languages of website first)
