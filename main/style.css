@@ -18,26 +18,28 @@ a {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #18181b;
+  background-color: #121521;
   font-size: medium;
   font-weight: 500;
 }
 
 nav {
-  max-width: 1200px;
+  background-color: #161616;
+  max-width: 1500px;
   margin: auto;
   padding: 1.75rem 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  border-bottom: 2px solid #76abae;
+  border-bottom: 2px solid #38868a;
   padding-bottom: 1.25rem;
 }
 
 .name {
   display: flex;
   max-width: 200px;
+  color: #fff;
 }
 
 .nav-links {
@@ -54,10 +56,13 @@ nav {
 }
 
 .btn {
-  background-color: #3f7678;
+  background-color: transparent;
+  color: #fff;
   font-weight: 525;
   height: 2rem;
-  width: 5em;
+  width: 7rem;
   cursor: pointer;
   border-radius: 11px;
+  border: 2px solid #38868a;
+  margin-right: 1em;
 }
