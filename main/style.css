@@ -22,13 +22,13 @@ button {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #121521;
+  background-color: #131620;
   font-size: medium;
   font-weight: 500;
 }
 
 nav {
-  background-color: #161616;
+  background-color: #17202b;
   max-width: 1500px;
   margin: auto;
   padding: 1.75rem 1rem;
@@ -38,6 +38,10 @@ nav {
   gap: 2rem;
   border-bottom: 2px solid #38868a;
   padding-bottom: 1.25rem;
+}
+
+:root {
+  color-scheme: only light;
 }
 
 .name {
