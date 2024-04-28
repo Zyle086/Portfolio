@@ -17,3 +17,9 @@ This project will take a while. Like a while a while. No rush, better to learn e
 (I SAY THIS AND I MEAN IT, THE HEADER ALONE TOOK 2 DAYS, LEARNING ALL 3 LANGUAGES AT ONCE IS EQUIVALENT TO MIND BREAK(IYKYK).
 
 Idk how to add images here yet(Not planning to learn anytime soon, learn the 3 foundation languages of website first)
+
+04/28/2024: Learned how easy it is to add an image to Readme
+
+Colorscheme Guide:
+
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/5ef45934-d219-4124-bc54-a452e7e94d30)
