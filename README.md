@@ -23,3 +23,9 @@ Idk how to add images here yet(Not planning to learn anytime soon, learn the 3 f
 Colorscheme Guide:
 
 ![image](https://github.com/Zyle086/Portfolio/assets/141378790/5ef45934-d219-4124-bc54-a452e7e94d30)
+
+Update: Ultimately was not contented with the previous design so decided to reference from this instead
+
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/60fafc3c-56e9-43fb-a218-1df4030492fe)
+
+
