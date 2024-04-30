@@ -26,5 +26,6 @@ Colorscheme Guide:
 
 Update: Ultimately was not contented with the previous design so decided to reference from this instead
 
-![Uploading image.png…]()
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/60fafc3c-56e9-43fb-a218-1df4030492fe)
+
 
