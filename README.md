@@ -24,6 +24,6 @@ Colorscheme Guide:
 
 ![image](https://github.com/Zyle086/Portfolio/assets/141378790/5ef45934-d219-4124-bc54-a452e7e94d30)
 
-Update: Ultimately was not contented with the previous design so decided to reference from this 
+Update: Ultimately was not contented with the previous design so decided to reference from this instead
 
-https://www.behance.net/gallery/157781767/Design-a-cool-portfolio-for-a-web-developer/modules/991203381
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/333a1e02-fbd9-495c-b006-c97b61daa348)
