@@ -27,6 +27,7 @@ Colorscheme:
 FINAL-DESIGN:
 
 ![image](https://github.com/Zyle086/Portfolio/assets/141378790/644e3158-2487-478b-b7fe-7c7459ec70f8)
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/d45441fc-2319-4058-b7ba-ea7ecb99c417)
 ![image](https://github.com/Zyle086/Portfolio/assets/141378790/ac2e73be-5c15-499e-9a74-1bb45fd875de)
 ![image](https://github.com/Zyle086/Portfolio/assets/141378790/ff905b3d-66f0-4ba2-af2b-1315c9a79957)
 ![image](https://github.com/Zyle086/Portfolio/assets/141378790/df104c40-ec7c-4322-8907-f2893721d9b2)
