@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+:root {
+  color-scheme: only light;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: poppins, sans-serif;
+  background-color: #161616;
+  color: white;
+}
+
+/* nav-bar */
+
+.nav-bar {
+  max-width: 1200px;
+  height: 10vh;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  padding-top: 0.2rem;
+  list-style: none;
+  display: flex;
+  gap: 4rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-links a:hover {
+  border-bottom: 3px solid #3100f0;
+  padding-bottom: 0.5rem;
+}
+
+.talk-btn {
+  font-family: poppins, sans-serif;
+  height: 6vh;
+  background-color: #5271ff;
+  color: white;
+  padding: 0.2rem 1.5rem;
+  border: 2px solid #5271ff;
+  border-radius: 20px;
+  margin-right: 0.5rem;
+}
+
+.name {
+  margin-left: 2rem;
+}
+
+button:hover {
+  background-color: transparent;
+}
+
+/* main content */
+
+/* introduction */
+
+.parent-container1 {
+  padding-top: 1.5rem;
+  height: 110vh;
+  background-image: linear-gradient(to right, #000, #241b3d);
+}
+
+.introduction {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: auto;
+  max-width: 1100px;
+  height: 90vh;
+}
+
+.intro-h1 {
+  font-size: 250%;
+}
+
+.intro-text {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.intro-p {
+  word-spacing: 2px;
+  letter-spacing: 1px;
+}
+.title {
+  font-weight: 200;
+  padding-bottom: 1.5rem;
+}
+
+.profile-photo {
+  max-width: 23rem;
+  border-radius: 50%;
+  border: 3px solid #6ba4f0;
+}
+
+/* skills */
+
+.parent-container2 {
+  background-color: #000000;
+  height: 70vh;
+}
+
+.skills-h1 {
+  padding: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.skill-list {
+  flex-direction: column;
+  padding: 3rem 0;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
