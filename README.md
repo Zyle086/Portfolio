@@ -20,12 +20,21 @@ Idk how to add images here yet(Not planning to learn anytime soon, learn the 3 f
 
 04/28/2024: Learned how easy it is to add an image to Readme
 
-Colorscheme Guide:
+Colorscheme: 
 
-![image](https://github.com/Zyle086/Portfolio/assets/141378790/5ef45934-d219-4124-bc54-a452e7e94d30)
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/9c950863-ec03-4ac4-ab23-81c5cb6ae6a2)
 
-Update: Ultimately was not contented with the previous design so decided to reference from this instead
+FINAL-DESIGN:
 
-![image](https://github.com/Zyle086/Portfolio/assets/141378790/60fafc3c-56e9-43fb-a218-1df4030492fe)
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/644e3158-2487-478b-b7fe-7c7459ec70f8)
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/ac2e73be-5c15-499e-9a74-1bb45fd875de)
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/ff905b3d-66f0-4ba2-af2b-1315c9a79957)
+![image](https://github.com/Zyle086/Portfolio/assets/141378790/df104c40-ec7c-4322-8907-f2893721d9b2)
+
+Just a reference to get the overall feel for the website. (Don't mind the footer/i got tired)
+
+
+
+
 
 
